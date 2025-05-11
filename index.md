@@ -10,3 +10,7 @@ This is short, meaningful commit message that describes the change I made to the
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
