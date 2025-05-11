@@ -1,1 +1,2 @@
-1
+# <Heading 101>
+This is a short, meaningful commit message that describe the change I made to the file
